@@ -1,0 +1,2 @@
+- Returns symbolic expression for first n derivates of function input by user, where n is also input be user (program will prompt).
+- Expresses higher derivatives in terms of lower derivatives.
